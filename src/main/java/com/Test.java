@@ -11,7 +11,7 @@ public class Test {
 
     public static void main(String[] args) {
         User user1 = new User();
-        user1.setName("张三三1");
+        user1.setName("张三三");
         user1.setAge(18);
         user1.setSex("男");
         List<String> list = new ArrayList<String>();
