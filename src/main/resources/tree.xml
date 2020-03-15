@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <branch1>
+        <branch2>
+            <leaf></leaf>
+        </branch2>
+    </branch1>
+    <branch1>
+        <branch2>
+            <branch3>
+                <leaf></leaf>
+            </branch3>
+        </branch2>
+    </branch1>
+
+</root>
