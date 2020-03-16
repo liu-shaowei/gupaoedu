@@ -1,5 +1,7 @@
 package com.gupaoedu.subject.design.pattern.adapter.login;
 
+import com.gupaoedu.subject.design.pattern.ResMsg;
+
 public class Test {
 
     public static void main(String[] args) {

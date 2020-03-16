@@ -1,5 +1,7 @@
 package com.gupaoedu.subject.design.pattern.adapter.login;
 
+import com.gupaoedu.subject.design.pattern.ResMsg;
+
 public class PassportForThirdAdapter implements IPassportForThird{
     @Override
     public ResMsg loginForQQ(String openId) {

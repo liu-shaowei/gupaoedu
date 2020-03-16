@@ -1,4 +1,4 @@
-package com.gupaoedu.subject.design.pattern.adapter.login;
+package com.gupaoedu.subject.design.pattern;
 
 import lombok.Data;
 
